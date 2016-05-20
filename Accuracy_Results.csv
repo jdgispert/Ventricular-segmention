@@ -1,0 +1,17 @@
+Image Filename;Gray Matter[cm3];White Matter[cm3];CSF [cm3];Total Intracranial Volume [cm3];Ventricular Volume [cm3]
+C:\Users\jdgispert\Documents\MATLAB\AS\validation\accuracy_adult\accuracy_adult01.img,1;741.5137556;475.9167625;214.1923337;1431.622852;10.70726204
+C:\Users\jdgispert\Documents\MATLAB\AS\validation\accuracy_adult\accuracy_adult02.img,1;648.1611611;501.2494147;217.5742609;1366.984837;13.80774165
+C:\Users\jdgispert\Documents\MATLAB\AS\validation\accuracy_adult\accuracy_adult03.img,1;723.0403814;487.3649914;234.2434434;1444.648816;12.54880397
+C:\Users\jdgispert\Documents\MATLAB\AS\validation\accuracy_adult\accuracy_adult04.img,1;804.7724191;561.40054;227.5264458;1593.699405;9.39762131
+C:\Users\jdgispert\Documents\MATLAB\AS\validation\accuracy_adult\accuracy_adult05.img,1;725.8574127;605.3598555;257.9881936;1589.205462;20.40352975
+C:\Users\jdgispert\Documents\MATLAB\AS\validation\accuracy_adult\accuracy_adult06.img,1;862.7796759;645.4040587;261.0428353;1769.22657;16.08523104
+C:\Users\jdgispert\Documents\MATLAB\AS\validation\accuracy_adult\accuracy_adult07.img,1;729.9031419;546.4380518;255.8568619;1532.198056;32.94584186
+C:\Users\jdgispert\Documents\MATLAB\AS\validation\accuracy_alzheimers_disease\accuracy_AD01.img,1;433.8350999;389.623005;249.9582573;1073.416362;24.32780749
+C:\Users\jdgispert\Documents\MATLAB\AS\validation\accuracy_alzheimers_disease\accuracy_AD02.img,1;487.0403175;482.7489921;325.8709031;1295.660213;37.87972347
+C:\Users\jdgispert\Documents\MATLAB\AS\validation\accuracy_alzheimers_disease\accuracy_AD03.img,1;539.5660661;576.6496548;419.8638908;1536.079612;90.79504421
+C:\Users\jdgispert\Documents\MATLAB\AS\validation\accuracy_alzheimers_disease\accuracy_AD04.img,1;500.3697216;525.0257407;310.8693746;1336.264837;87.14550979
+C:\Users\jdgispert\Documents\MATLAB\AS\validation\accuracy_alzheimers_disease\accuracy_AD05.img,1;473.4635928;475.2562474;311.5847748;1260.304615;31.34449895
+C:\Users\jdgispert\Documents\MATLAB\AS\validation\accuracy_alzheimers_disease\accuracy_AD06.img,1;364.459474;436.6257826;289.3594877;1090.444744;33.09887034
+C:\Users\jdgispert\Documents\MATLAB\AS\validation\accuracy_alzheimers_disease\accuracy_AD07.img,1;511.2998074;426.2204208;272.2833923;1209.803621;49.26326391
+C:\Users\jdgispert\Documents\MATLAB\AS\validation\accuracy_alzheimers_disease\accuracy_AD08.img,1;550.0394055;516.5034003;346.7514925;1413.294298;52.74074244
+C:\Users\jdgispert\Documents\MATLAB\AS\validation\accuracy_alzheimers_disease\accuracy_AD09.img,1;416.959271;388.0602806;282.434413;1087.453965;46.72468063
